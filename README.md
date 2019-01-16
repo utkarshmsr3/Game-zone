@@ -1,2 +1,2 @@
 # Game-zone
-simple game programmed in Python
+simple games programmed in Python
